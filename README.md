@@ -5,6 +5,7 @@
 This is very simple example of bank core functionality written using laravel framework 
 
 ### How to test the functionality:
+- run composer install
 - run php artisan migrate
 - php artisan serve
 
